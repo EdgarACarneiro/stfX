@@ -1,5 +1,7 @@
 # ___stfX_: SpatioTemporal Features eXtractor__
 
+> :exclamation: This repository has been archived. Further developments on this repository are done in [most-inesctec/stfX](https://github.com/most-inesctec/stfX) :exclamation:
+
 The __SpatioTemporal Features eXtractor (_stfX_)__ is the prototype implementation of the conceptual framework detailed in chapter 4 of the __corresponding [thesis](docs/thesis.pdf)__.
 Thus, the _stfX_ focuses on the quantification of the features of interest occurring over user-inputted spatiotemporal phenomena. The _stfX_ is capable of quantifying a subset of the spatiotemporal change features identified in the literature review, namely: translations, rotations, uniform scaling, changes of direction, moment in time and duration.
 
@@ -121,11 +123,11 @@ Some important nuances:
 <details>
   <summary><code>results/</code></summary>
   <br>
-  Contains the results under the denomination <code><em><name_of_the_test></em>.json</code>. 
+  Contains the results under the denomination <code><em>name_of_the_test</em>.json</code>. 
   <br><br>
   The json files have both the obtained results, the metric scores, and the differences between what was accomplish and what was expected for the M2 metric.
   <br>
-  As for the files under the denomination <code><em><name_of_the_test></em>_m1.png</code>, they exhibit the representation of the <strong>convex hulls</strong> and the phenomena used in the M1 metric.
+  As for the files under the denomination <code><em>name_of_the_test</em>_m1.png</code>, they exhibit the representation of the <strong>convex hulls</strong> and the phenomena used in the M1 metric.
 </details>
 
 <details>
