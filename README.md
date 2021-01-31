@@ -1,5 +1,9 @@
 # ___stfX_: SpatioTemporal Features eXtractor__
 
+
+> :exclamation: This repository has been archived. Further developments on this repository are done in [most-inesctec/stfX](https://github.com/most-inesctec/stfX). :exclamation:
+
+
 The __SpatioTemporal Features eXtractor (_stfX_)__ is the prototype implementation of the conceptual framework detailed in chapter 4 of the __corresponding [thesis](docs/thesis.pdf)__.
 Thus, the _stfX_ focuses on the quantification of the features of interest occurring over user-inputted spatiotemporal phenomena. The _stfX_ is capable of quantifying a subset of the spatiotemporal change features identified in the literature review, namely: translations, rotations, uniform scaling, changes of direction, moment in time and duration.
 
